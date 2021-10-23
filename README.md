@@ -1,4 +1,4 @@
-# Site Name : RJ-HEALTH-CARE
+# Site Name : HW-HEALTH-CARE
 
 ## The third party modules that has been used-
 
@@ -14,12 +14,13 @@
 
 ## Site Live Link
 
-https://rj-health-care.web.app/
+https://hw-health-care.web.app/
 
 ## Github Link
 
-https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-aburaihan8721
+https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-khudroo
 
 ## Deployment
 
 - Firebase Hosting
+# healthcare-related-website-khudroo
