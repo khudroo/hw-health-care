@@ -1,0 +1,36 @@
+#menu li a {
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 500;
+  transition: 0.5s;
+}
+
+#menu li a:hover {
+  color: red;
+}
+
+#custom-brand {
+  color: #faf9f9;
+  font-size: 30px;
+}
+
+#custom-brand .brand-text {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+}
+
+.profile-img {
+  border: 2px solid white;
+  padding: 1px;
+  border-radius: 100%;
+}
+
+.profile-img img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
